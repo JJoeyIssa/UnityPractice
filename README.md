@@ -1,8 +1,9 @@
 # UnityPractice
 
-## Testing out what i can do with unity! Learning along the way.
+## Testing out what i can do with unity!
+Learning along the way.
 
-October 
+# October 
 - Adjusted to Unity's layout
 - Figured out how to uitalize spritesheets, make animations and attach those to movement scripts
 - Getting acustomed to C# script (';' are annoying lol)
