@@ -1,6 +1,6 @@
 # UnityPractice
 
-#Testing out what i can do with unity! Learning along the way.
+## Testing out what i can do with unity! Learning along the way.
 
 October 
 - Adjusted to Unity's layout
